@@ -7,3 +7,4 @@ https://www.researchgate.net/publication/335179428_HackRF_GNU_Radio_A_software-d
 https://github.com/mossmann/hackrf
 
 
+https://gqrx.dk/
